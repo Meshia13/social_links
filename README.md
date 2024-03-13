@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Continued development
 
-I plan to continue working on understanding the fundamentals of css.
+I plan on continuing working on understanding the fundamentals of css.
 
 ## Author
 
