@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Source Code](https://github.com/Meshia13/social_links)
+- Live Site URL: [Live Code](https://meshia13.github.io/social_links/)
 
 ## My process
 
@@ -48,4 +48,4 @@ I plan to continue working on understanding the fundamentals of css.
 
 - GitHub - [Meshia13](https://github.com/Meshia13)
 - Frontend Mentor - [@Meshia13](https://www.frontendmentor.io/profile/Meshia13)
-"# social_links" 
+  "# social_links"
