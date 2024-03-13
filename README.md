@@ -48,4 +48,3 @@ I plan to continue working on understanding the fundamentals of css.
 
 - GitHub - [Meshia13](https://github.com/Meshia13)
 - Frontend Mentor - [@Meshia13](https://www.frontendmentor.io/profile/Meshia13)
-  "# social_links"
